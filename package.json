@@ -1,5 +1,5 @@
 {
-  "name": "country-list",
+  "name": "countrynames",
   "version": "1.0.0",
   "description": "Get random countries",
   "main": "src/index.js",
