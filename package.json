@@ -1,0 +1,27 @@
+{
+  "name": "country-list",
+  "version": "1.0.0",
+  "description": "Get random countries",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anil-shivamurthy/Country-list.git"
+  },
+  "keywords": [
+    "random",
+    "country",
+    "list"
+  ],
+  "author": "Anil <anil.s@robosoftin.com> (http://anilshivamurthy.com/)",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/anil-shivamurthy/Country-list/issues"
+  },
+  "homepage": "https://github.com/anil-shivamurthy/Country-list#readme",
+  "dependencies": {
+    "unique-random-array": "2.0.0"
+  }
+}
